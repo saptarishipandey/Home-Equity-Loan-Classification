@@ -1,4 +1,4 @@
-# Home-Equity-Loan-Classification
+# Home Equity Loan Classification
 
 This is the repository for the final team project in the course CIS 432 - Predictive Analytics in Python at Simon Business School. In this assignment, my team and I built a predictive model decision support system that evaluates the risk of Home Equity Line of Credit applications (HELOC).
 
